@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I am Anukul👋
+### I am a front-end developer
+
 
 <!--
 **AnukulPK/AnukulPK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
