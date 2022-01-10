@@ -11,11 +11,14 @@ using JavaScript, TypeScript, ReactJS, and Springboot.
 2) CSS
 3) Javascript
 4) ReactJS/ ReactTS
-5) TypeScript
-6) Java
-7) PHP
-8) Springboot
-9) AWS
+5) Gatsby
+6) TypeScript
+7) Java
+8) PHP
+9) Springboot
+10) AWS
+11) Keycloak
+12) Camunda
 
 
 <!--
