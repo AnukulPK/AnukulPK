@@ -6,7 +6,7 @@
 I am interested to develop and write about software solutions
 using JavaScript, TypeScript, ReactJS, and Springboot.
 
-### Technologies and Prigramming languages/frameworks I work with:
+### Technologies and Programming languages/frameworks I work with:
 1) HTML
 2) CSS
 3) Javascript
