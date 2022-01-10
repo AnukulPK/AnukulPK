@@ -1,4 +1,4 @@
-(https://media-exp1.licdn.com/dms/image/C4E16AQEPnoLdJxArZg/profile-displaybackgroundimage-shrink_350_1400/0/1600343790645?e=1647475200&v=beta&t=Jdb1UZjSs8mCOm0vnAprpaYwU0Kdx3WeT18kf10fQZw)
+[!(https://media-exp1.licdn.com/dms/image/C4E16AQEPnoLdJxArZg/profile-displaybackgroundimage-shrink_350_1400/0/1600343790645?e=1647475200&v=beta&t=Jdb1UZjSs8mCOm0vnAprpaYwU0Kdx3WeT18kf10fQZw)]
 
 ### Hi there I am Anukul👋
 ### I am a front-end developer
