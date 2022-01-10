@@ -3,6 +3,9 @@
 ### Hi there I am Anukul👋
 ### I am a front-end developer
 
+I am interested to develop and write about software solutions
+using JavaScript, TypeScript, ReactJS, and Springboot.
+
 
 <!--
 **AnukulPK/AnukulPK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
