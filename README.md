@@ -1,4 +1,4 @@
-![anukul](https://media-exp1.licdn.com/dms/image/C4E16AQEPnoLdJxArZg/profile-displaybackgroundimage-shrink_350_1400/0/1600343790645?e=1647475200&v=beta&t=Jdb1UZjSs8mCOm0vnAprpaYwU0Kdx3WeT18kf10fQZw)
+![anukul](https://pbs.twimg.com/profile_banners/2267376860/1600339582/1080x360)
 
 ### Hi there I am Anukul👋
 ### I am a front-end developer
