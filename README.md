@@ -15,7 +15,7 @@ using JavaScript, TypeScript, ReactJS, and Springboot.
 5) Gatsby
 6) TypeScript
 7) Java
-8) PHP
+8) Node
 9) Springboot
 10) AWS
 11) Keycloak
