@@ -3,8 +3,8 @@
 ### I am a front-end developer
 
 
-I am interested to develop and write about software solutions
-using JavaScript, TypeScript, ReactJS, and Springboot.
+I am interested in developing and writing about software solutions
+using JavaScript, TypeScript, ReactJS, and Node JS. 
 
 
 ### Technologies and Programming languages/frameworks I work with:
@@ -22,6 +22,9 @@ using JavaScript, TypeScript, ReactJS, and Springboot.
 12) Camunda
 13) DevExtreme
 14) Next JS
+15) GraphQL
+16) SQL
+17) Docker
 
 
 <!--
