@@ -1,6 +1,6 @@
 ![anukul](https://pbs.twimg.com/profile_banners/2267376860/1600339582/1080x360)
-### Hi there I am Anukul👋
-### I am a front-end developer
+### Hi there I am Anukul Pulikkathara Krishnakumar👋
+### I am a front-end developer and working towards becoming a full-stack developer. 
 
 
 I am interested in developing and writing about software solutions
