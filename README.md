@@ -26,7 +26,7 @@ using JavaScript, TypeScript, ReactJS, and Node JS.
 16) SQL
 17) Docker
 
-I love to solve problems using programming. A front-end web developer with over 4 years of IT experience.  I create, scale, and optimize web applications. To accomplish this, I focus on the customer requirements, conceptualize and synthesize use cases, and adapt to new insights. 
+I love to solve problems using programming. A front-end web developer with over 6 years of IT experience.  I create, scale, and optimize web applications. To accomplish this, I focus on the customer requirements, conceptualize and synthesize use cases, and adapt to new insights. 
 
 I have an attitude that helps me to be persistent and hard-working and deliver my tasks well on time. My personal and professional experiences have taught me the following about myself:
 
