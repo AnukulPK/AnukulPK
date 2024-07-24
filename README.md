@@ -20,6 +20,8 @@ using JavaScript, TypeScript, ReactJS, and Springboot.
 10) AWS
 11) Keycloak
 12) Camunda
+13) DevExtreme
+14) Next JS
 
 
 <!--
