@@ -3,28 +3,35 @@
 ### I am Anukul Pulikkathara Krishnakumar👋
 ### An experienced front-end developer, working towards becoming a full-stack developer. 
 
-
 I am interested in developing and writing about software solutions
-using JavaScript, TypeScript, ReactJS, and Node JS.
+using JavaScript, TypeScript, ReactJS, Java, Springboot, Quarkus, and Node JS. 
+
+- 🔭 I’m currently working on a Quarkus project, utilizing React on the frontend. 
+- 🌱 I’m currently learning Kotlin.
+- 👯 I’m looking to collaborate on open-source projects using Java, React, and TypeScript. 
+- 💬 Ask me about problem solving, programming, gaming and animation. 
+- 📫 How to reach me: anukulpk2@gmail.com
+- ⚡ Fun fact: A clean code enthusiast who creates practical abstractions😜
 
 ### Technologies and Programming languages/frameworks I work with:
 1) HTML
 2) CSS
-3) Javascript
-4) ReactJS/ ReactTS
+3) JavaScript
+4) React
 5) Gatsby
 6) TypeScript
 7) Java
 8) Node
 9) Springboot
-10) AWS
-11) Keycloak
-12) Camunda
-13) DevExtreme
-14) Next JS
-15) GraphQL
-16) SQL
-17) Docker
+10) Quarkus
+11) AWS
+12) Keycloak
+13) Camunda
+14) DevExtreme
+15) Next JS
+16) GraphQL
+17) SQL
+18) Docker
 
 I love to solve problems using programming. A front-end web developer with over 6 years of IT experience.  I create, scale, and optimize web applications. To accomplish this, I focus on the customer requirements, conceptualize and synthesize use cases, and adapt to new insights. 
 
@@ -35,8 +42,8 @@ I can successfully build the front end of web applications using prevalent techn
 - I excel in learning and working with new tech stacks and execute big ideas within given constraints. 
 - A rational thinker who trusts a data-driven decision-making process. 
 
-I can align, and lead, and I am capable of growing world-class product teams.
-- I love to win but always focus on ensuring that my team wins is a lot more satisfying.
+- I can align and lead, and I am capable of growing world-class product teams.
+- I love to win, but focusing on ensuring that my team wins is a lot more satisfying.
 - I am passionate about tech and love to speak about it. 
 - I love to express my opinions on topics related to tech, code, and sports.
 
